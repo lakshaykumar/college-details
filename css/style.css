@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(254, 255, 240);
+}
+h1{
+    background-color: blueviolet;
+    color:antiquewhite;
+    font-size: 50px;
+}
+form{
+    background-color: burlywood;
+}
+hr{
+    height: 5px;
+    width: 30%;
+    background-color: cadetblue;
+    border-style: dashed;
+    border-width: 5px ;
+    border-color: chartreuse;
+}
+
+.dtu{
+
+ border: 10px solid red;   
+}
+.nsut {
+    border: 10px solid blue;
+}
